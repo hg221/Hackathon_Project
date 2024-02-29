@@ -1,0 +1,20 @@
+18:04:55.562 [main] INFO  testcases.TC001_Home_Page - ******Email Id is entered******
+18:04:55.838 [main] INFO  testcases.TC001_Home_Page - ******Entering Phone Number******
+18:04:56.203 [main] INFO  testcases.TC001_Home_Page - ******Phone Number Entered******
+18:04:56.533 [main] INFO  testcases.TC001_Home_Page - ******Choosing Institution Type from the dropdown list******
+18:04:57.070 [main] INFO  testcases.TC001_Home_Page - ******Institution Type is choosen******
+18:04:57.071 [main] INFO  testcases.TC001_Home_Page - ******Entering Institution Name******
+18:04:57.731 [main] INFO  testcases.TC001_Home_Page - ******Entered******
+18:04:58.024 [main] INFO  testcases.TC001_Home_Page - ******Choosing Job Role from the dropdown list******
+18:04:58.275 [main] INFO  testcases.TC001_Home_Page - ******Job Role is choosen******
+18:04:58.535 [main] INFO  testcases.TC001_Home_Page - ******Choosing the department from the dropdown list******
+18:04:59.004 [main] INFO  testcases.TC001_Home_Page - ******Department is choosen******
+18:04:59.365 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Best Describes from the dropdown list******
+18:04:59.877 [main] INFO  testcases.TC001_Home_Page - ******Best Describes is choosen******
+18:05:00.193 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Country from the dropdown list******
+18:05:00.620 [main] INFO  testcases.TC001_Home_Page - ******Country is choosen******
+18:05:00.925 [main] INFO  testcases.TC001_Home_Page - ******Choosing the State from the dropdown list******
+18:05:01.288 [main] INFO  testcases.TC001_Home_Page - ******State is choosen******
+18:05:01.666 [main] INFO  testcases.TC001_Home_Page - ******Clicking the Submit Button******
+18:05:01.895 [main] INFO  testcases.TC001_Home_Page - ******Submit Button is clicked******
+18:05:02.433 [main] INFO  testcases.TC001_Home_Page - ******capturing error messsage******
